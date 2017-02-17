@@ -20,6 +20,7 @@
     "test": "tests"
   },
   "dependencies": {
+    "https": "^1.0.0",
     "underscore": "~1.6.0"
   },
   "devDependencies": {
